@@ -68,3 +68,4 @@ module "truststore" {
 | <a name="output_ca-key-secret-name"></a> [ca-key-secret-name](#output\_ca-key-secret-name) | Secret name that stores ca.key. |
 | <a name="output_ca-pem"></a> [ca-pem](#output\_ca-pem) | ca.pem - CA certificate. |
 | <a name="output_ca-pem-secret-name"></a> [ca-pem-secret-name](#output\_ca-pem-secret-name) | Secret name that stores ca.pem. |
+| <a name="output_truststore_arn"></a> [truststore\_arn](#output\_truststore\_arn) | Trust Store ARN. |
