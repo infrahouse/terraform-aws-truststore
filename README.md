@@ -6,7 +6,7 @@ The module generates a root CA certificate and creates a Trust Store with it.
 ```hcl
 module "truststore" {
   source  = "infrahouse/truststore/aws"
-  version = "0.1.0"
+  version = "0.2.0"
 }
 ```
 ## Requirements
